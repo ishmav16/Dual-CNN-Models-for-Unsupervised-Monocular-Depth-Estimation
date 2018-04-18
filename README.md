@@ -9,7 +9,7 @@
 
 **Depth Image using DNM6 Model** :
 <p align="center">
-  <img src="DNM6_output.png" height=200 width=300 alt="output-depth-map">
+  <img src="DNM6_output.png" height=200 width=400 alt="output-depth-map">
 </p>
 
 **Depth Image using DNM12 Model** :
@@ -32,7 +32,7 @@ Developed the 2 models involving 2 CNNs named 'Dual CNN' for estimating the dept
 **Model-1:  Dual Network Model with 6 losses (DNM6)** 
 
 <p align="center">
-  <img src="M1_DNM6.jpg" alt="first-approach">
+  <img src="M1_DNM6.jpg" height=400 alt="first-approach">
 </p>
 
 **Model-2:  Dual Network Model with 12 losses (DNM12)**
