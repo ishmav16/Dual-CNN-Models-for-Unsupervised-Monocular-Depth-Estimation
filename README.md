@@ -9,7 +9,7 @@
 
 **Depth Image using DNM6 Model** :
 <p align="center">
-  <img src="DNM6_output.png" height=200 width=400 alt="output-depth-map">
+  <img src="DNM6_output.png" height=200 width=300 alt="output-depth-map">
 </p>
 
 **Depth Image using DNM12 Model** :
@@ -17,7 +17,7 @@
   <img src="DNM12_output.png" height=200 width=400 alt="output-depth-map">
 </p>
 
-**For more details, you can look into the paper [here](https://arxiv.org/pdf/1804.06324.pdf).
+**For more details,** you can look into the paper [here](https://arxiv.org/pdf/1804.06324.pdf).
 
 # Requirements :
 Tensorflow 3.0
