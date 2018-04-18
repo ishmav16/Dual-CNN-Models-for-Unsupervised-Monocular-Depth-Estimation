@@ -26,7 +26,7 @@ Ubuntu
   
    This network is implemented in TensorFlow contains 62 million trainable parameters which include weights and biases and trained in NVIDIA Tesla K80 24GB GDDR5 GPU server up to 50 epochs which takes 49 hours.
    
-# Models :
+# Proposed Models :
 Developed the 2 models involving 2 CNNs named 'Dual CNN' for estimating the depth map.
 
 **Model-1:  Dual Network Model with 6 losses (DNM6)** 
